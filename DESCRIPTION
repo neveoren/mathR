@@ -1,0 +1,15 @@
+Package: mathR
+Title: Perform Basic Arithmetic on Two Numeric Vectors
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Neve",
+           family = "Oren",
+           role = c("aut", "cre"),
+           email = "noren@wesleyan.edu")
+Description: The functions in this package perform simple arithmetic
+    (addition, subtraction, multiplication, division) with two numeric vectors.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
