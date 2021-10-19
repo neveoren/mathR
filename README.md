@@ -18,7 +18,7 @@ if(!require(remote)){
 remotes::install.github("neveoren/mathR")
 ```
 
-## Example
+## Basic Example
 
 This is a basic example which shows you how to solve a common problem:
 
